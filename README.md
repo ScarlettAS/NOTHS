@@ -11,15 +11,17 @@ As Automation is new to me, I’ve only had time to complete the implementation 
 
 ## Setup:
 
-In order to run the feature file, you'll need to install [Cucumber](http://cucumber.io/) for Ruby.
+1. In order to run the feature file, you'll need to install [Cucumber](http://cucumber.io/) for Ruby.
 
-    gem install cucumber
+       gem install cucumber
     
-In addition, you'll need to install the Selenium WebDriver
+2. In addition, you'll need to install the Selenium WebDriver
 
-    gem install selenium-webdriver
+       gem install selenium-webdriver
     
-And finally, you'll need to install the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) and place it into the `/usr/local/bin` directory.
+3. And finally, you'll need to install the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) and place it into the `/usr/local/bin` directory.
+
+## Using Cucumber
 
 Once this is completed, run the .feature file through cucumber.
 
