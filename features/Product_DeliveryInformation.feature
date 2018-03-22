@@ -8,7 +8,7 @@ Background:
 
 Scenario: Viewing the delivery information summary
   When I view the product page
-  Then the avaliable <deliveryOptions> are shown in the delivery summary
+  Then the available <deliveryOptions> are shown in the delivery summary
 
   Examples:
     | deliveryOptions          |
@@ -34,4 +34,4 @@ Scenario: Viewing the sellers delivery information
   Given the delivery tab is expanded 
   When I click on the 'This Is Nessie.' link
   Then I will be taken to the sellers homepage
-  And I can see futher infomation about product delivery
+  And I can see further infomation about product delivery
