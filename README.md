@@ -23,7 +23,7 @@ As Automation is new to me, I’ve only had time to complete the implementation 
 
 ## Using Cucumber
 
-Once this is completed, run the .feature file through cucumber.
+Once setup, run the .feature file through cucumber.
 
     cucumber ./features/ExampleProduct_DeliveryInformation.feature
     
