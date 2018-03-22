@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Implementation of Tests
 
 Due to my level of test automation knowledge. To complete this step I’ve had to spend a big chunk of time learning more about Selenium web driver, Cucumber and Ruby.
@@ -9,3 +10,6 @@ As Automation is new to me, I’ve only had time to complete the implementation 
 
 
 # Report File:
+=======
+
+>>>>>>> e238f3df540873e8e7cbca44ff7407d7be942939
