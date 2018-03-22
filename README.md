@@ -19,7 +19,7 @@ As Automation is new to me, I’ve only had time to complete the implementation 
 
        gem install selenium-webdriver
     
-3. And finally, you'll need to install the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) and place it into the `/usr/local/bin` directory.
+3. And finally, you'll need to download the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) and place it into the `/usr/local/bin` directory.
 
 ## Using Cucumber
 
