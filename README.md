@@ -6,7 +6,7 @@ As Automation is new to me, I’ve only had time to complete the implementation 
 
 ## Setup:
 
-In order to run the feature file, you'll need to install [Cucumber](http://cucumber.io/).
+In order to run the feature file, you'll need to install [Cucumber](http://cucumber.io/) for Ruby.
 
     gem install cucumber
 
