@@ -14,8 +14,14 @@ As Automation is new to me, I’ve only had time to complete the implementation 
 In order to run the feature file, you'll need to install [Cucumber](http://cucumber.io/) for Ruby.
 
     gem install cucumber
+    
+In addition, you'll need to install the Selenium WebDriver
 
-Once this is installed, run the .feature file through cucumber.
+    gem install selenium-webdriver
+    
+And finally, you'll need to install the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) and place it into the `/usr/local/bin` directory.
+
+Once this is completed, run the .feature file through cucumber.
 
     cucumber ./features/ExampleProduct_DeliveryInformation.feature
     
